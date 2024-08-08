@@ -12,7 +12,7 @@
 </p>
 
 * 📱 iOS & Engineering Manager
-* 🏈 Currently at [@TheAthletic](https://theathletic.com)
+* 🥷🏼 Currently Stealth
 * 🪐 Fascinated by space
 * 💻 I publish some [open source software on GitHub](https://github.com/kylebrowning?tab=repositories&type=public)
 * 🇺🇸 Lives in California
