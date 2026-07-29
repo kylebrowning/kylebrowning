@@ -311,15 +311,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.035820895522388 0,1.035820895522388 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.035820895522388 1.7,2.035820895522388 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.847761194029851)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1522388059701494 0,1.1522388059701492 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1522388059701492 1.7,2.1522388059701494 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 8.838805970149254)">
+                            <g transform="translate(-3.4, 7.838805970149254)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1611940298507464 0,1.1611940298507464 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1611940298507464 1.7,2.1611940298507464 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 8.84776119402985)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1522388059701494 0,1.1522388059701492 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1522388059701492 1.7,2.1522388059701494 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.919402985074626)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1265,7 +1265,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2026, 15:23:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2026, 16:24:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
