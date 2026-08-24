@@ -1,0 +1,16 @@
+name: Profile cards
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  cairn:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: kylebrowning/cairn@v1
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
