@@ -1,0 +1,108 @@
+{
+  "card" : {
+    "blocks" : [
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "repo",
+            "label" : "Repositories",
+            "value" : "114"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "star",
+            "label" : "Stars earned",
+            "value" : "1,615"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "tag",
+            "label" : "Releases",
+            "value" : "134"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "package",
+            "label" : "Packages",
+            "value" : "0"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "database",
+            "label" : "Storage used",
+            "value" : "4.20 GB"
+          }
+        }
+      },
+      {
+        "divider" : {
+          "_0" : "top languages"
+        }
+      },
+      {
+        "barList" : {
+          "_0" : [
+            {
+              "color" : "#4F5D95",
+              "label" : "PHP",
+              "raw" : 67152754,
+              "value" : "56%"
+            },
+            {
+              "color" : "#F05138",
+              "label" : "Swift",
+              "raw" : 27589375,
+              "value" : "23%"
+            },
+            {
+              "color" : "#f1e05a",
+              "label" : "JavaScript",
+              "raw" : 9842587,
+              "value" : "8%"
+            },
+            {
+              "color" : "#e38c00",
+              "label" : "TSQL",
+              "raw" : 8517560,
+              "value" : "7%"
+            },
+            {
+              "color" : "#663399",
+              "label" : "CSS",
+              "raw" : 2928683,
+              "value" : "2%"
+            },
+            {
+              "color" : "#e34c26",
+              "label" : "HTML",
+              "raw" : 1233116,
+              "value" : "1%"
+            }
+          ]
+        }
+      }
+    ],
+    "icon" : "repo",
+    "id" : "repositories",
+    "span" : 1,
+    "title" : "Repositories"
+  },
+  "generatedAt" : "2026-09-05T09:05:05Z"
+}

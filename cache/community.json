@@ -1,0 +1,71 @@
+{
+  "card" : {
+    "blocks" : [
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "heart",
+            "label" : "Followers",
+            "value" : "203"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "people",
+            "label" : "Following",
+            "value" : "39"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "organization",
+            "label" : "Organizations",
+            "value" : "6"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "star",
+            "label" : "Starred",
+            "value" : "154"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "eye",
+            "label" : "Watching",
+            "value" : "13"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : false,
+            "icon" : "sparkle",
+            "label" : "Sponsoring",
+            "value" : "0"
+          }
+        }
+      }
+    ],
+    "icon" : "people",
+    "id" : "community",
+    "span" : 1,
+    "title" : "Community"
+  },
+  "generatedAt" : "2026-09-05T09:05:05Z"
+}

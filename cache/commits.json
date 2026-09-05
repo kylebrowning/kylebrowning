@@ -1,0 +1,32 @@
+{
+  "card" : {
+    "blocks" : [
+      {
+        "statGrid" : {
+          "_0" : [
+            {
+              "accent" : false,
+              "label" : "total commits",
+              "value" : "9.4k"
+            },
+            {
+              "accent" : true,
+              "label" : "highest day",
+              "value" : "670"
+            },
+            {
+              "accent" : false,
+              "label" : "avg \/ day",
+              "value" : "~16.9"
+            }
+          ]
+        }
+      }
+    ],
+    "icon" : "commit",
+    "id" : "commits",
+    "span" : 1,
+    "title" : "Commits"
+  },
+  "generatedAt" : "2026-09-05T09:05:05Z"
+}
