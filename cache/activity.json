@@ -1,0 +1,71 @@
+{
+  "card" : {
+    "blocks" : [
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : true,
+            "icon" : "commit",
+            "label" : "Commits",
+            "value" : "9,459"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : true,
+            "icon" : "pr",
+            "label" : "PRs opened",
+            "value" : "1,325"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : true,
+            "icon" : "merge",
+            "label" : "PRs reviewed",
+            "value" : "94"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : true,
+            "icon" : "issue",
+            "label" : "Issues opened",
+            "value" : "247"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : true,
+            "icon" : "comment",
+            "label" : "Issue comments",
+            "value" : "1,481"
+          }
+        }
+      },
+      {
+        "stat" : {
+          "_0" : {
+            "dense" : true,
+            "icon" : "people",
+            "label" : "Contributed to",
+            "value" : "24"
+          }
+        }
+      }
+    ],
+    "icon" : "flame",
+    "id" : "activity",
+    "span" : 1,
+    "title" : "Activity"
+  },
+  "generatedAt" : "2026-10-10T11:10:54Z"
+}
