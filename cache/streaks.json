@@ -1,0 +1,53 @@
+{
+  "card" : {
+    "blocks" : [
+      {
+        "statGrid" : {
+          "_0" : [
+            {
+              "accent" : true,
+              "label" : "current streak",
+              "value" : "8 days"
+            },
+            {
+              "accent" : false,
+              "label" : "best streak",
+              "value" : "47 days"
+            }
+          ]
+        }
+      },
+      {
+        "divider" : {
+          "_0" : "commits \/ week"
+        }
+      },
+      {
+        "sparkline" : {
+          "_0" : {
+            "label" : "828",
+            "values" : [
+              195,
+              343,
+              22,
+              4,
+              0,
+              1,
+              107,
+              126,
+              167,
+              192,
+              170,
+              828
+            ]
+          }
+        }
+      }
+    ],
+    "icon" : "zap",
+    "id" : "streaks",
+    "span" : 1,
+    "title" : "Streaks"
+  },
+  "generatedAt" : "2026-11-13T13:06:29Z"
+}
